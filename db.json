@@ -1,1 +1,58 @@
 
+[
+    {
+        "createdAt": "2023-05-31T06:39:40.357Z",
+        "firstName": "Jules",
+        "lastName": "Witting",
+        "dob": "2007-10-24T19:21:11.158Z",
+        "rewardPoints": 15,
+        "newUser": false,
+        "email": "Herman.Bergnaum74@hotmail.com",
+        "mobileNumber": "206-234-7565",
+        "id": "1"
+    },
+    {
+        "createdAt": "2023-05-30T11:02:07.708Z",
+        "firstName": "Erika",
+        "lastName": "Bernier",
+        "dob": "2062-01-07T14:01:31.558Z",
+        "rewardPoints": 0,
+        "newUser": false,
+        "email": "Lazaro.Boyer25@yahoo.com",
+        "mobileNumber": "540.206.6720",
+        "id": "2"
+    },
+    {
+        "createdAt": "2023-05-31T06:54:58.504Z",
+        "firstName": "Roxane",
+        "lastName": "Wyman",
+        "dob": "2057-10-15T10:03:39.763Z",
+        "rewardPoints": 0,
+        "newUser": true,
+        "email": "Tito_Schneider@yahoo.com",
+        "mobileNumber": "(903) 261-5171",
+        "id": "3"
+    },
+    {
+        "createdAt": "2023-05-30T17:36:38.606Z",
+        "firstName": "Libby",
+        "lastName": "Lakin",
+        "dob": "2095-06-21T03:28:43.179Z",
+        "rewardPoints": 5,
+        "newUser": false,
+        "email": "Donnell.Zieme69@yahoo.com",
+        "mobileNumber": "(855) 234-7154",
+        "id": "4"
+    },
+    {
+        "createdAt": "2023-05-30T11:11:48.905Z",
+        "firstName": "Horacio",
+        "lastName": "Lynch",
+        "dob": "2023-10-01T14:37:53.349Z",
+        "rewardPoints": 10,
+        "newUser": false,
+        "email": "Dillon.Ruecker7@yahoo.com",
+        "mobileNumber": "1-553-949-5264",
+        "id": "7"
+    }
+]
